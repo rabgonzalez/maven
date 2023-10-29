@@ -140,6 +140,13 @@ export PATH=${M2_HOME}/bin:${PATH}
 <details>
 <summary>salida</summary>
 
-```
+```code
+    Apache Maven 3.6.3
+    Maven home: /usr/share/maven
+    Java version: 11.0.20.1, vendor: Ubuntu, runtime: /usr/lib/jvm/java-11-openjdk-amd64
+    Default locale: es_ES, platform encoding: UTF-8
+    OS name: "linux", version: "5.15.0-76-generic", arch: "amd64", family: "unix"
 ```
 </details>
+
+> Nota: Al final me debería salir “Apache Maven 3.9.5” pero habré cometido algún fallo en los apartados anteriores por lo que no me aparece la última versión.
